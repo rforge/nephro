@@ -1,0 +1,9 @@
+Package: nephro
+Type: Package
+Title: Biostatistics utilities for nephrology
+Version: 1.1
+Date: 2015-01-31
+Author: Cristian Pattaro
+Maintainer: Cristian Pattaro <cristian.pattaro@eurac.edu>
+Description: Set of functions to estimate the Glomerular Filtration Rate (GFR) using different biomarkers and other phenotypes of interest for nephrology.
+License: GPL (>= 3)
